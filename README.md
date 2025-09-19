@@ -1,12 +1,11 @@
-# Learning
-
-Here is all my coursework done and in progress of everything I'm learning. That means, you will find problem solutions from courses, books, simple to intermediate projects, own random problems, etc.
+# Playground
 
 ## 🎮 Hardware
 
 - [Altium - Game Console](./altium/Consola%20desde%20cero/)
 - [Altium - ESP32 S3](./altium/esp32/)
 - [KiCad - 555 Astable Multivibrator](./kicad/555_astable_multivibrator/)
+- [KiCad - BJT Astable Multivibrator](./kicad/classic-astable-multivibrator/)
 
 ## 📀 Chip Design
 
